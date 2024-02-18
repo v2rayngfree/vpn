@@ -31,11 +31,6 @@
     p {
       color: #666;
       line-height: 1.6;
-    }
-  </style>
-</head>
-<body>
-  <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="aba45236-a601-47b7-b723-38e3f93babd9";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 
   <header>
     <h1> خرید کانفیگ v2ray نامحدود | خرید کانفیگ v2rayng اندروید و آیفون </h1>
